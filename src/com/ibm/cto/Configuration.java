@@ -33,7 +33,7 @@ public class Configuration {
 	/**
 	 * TODO: Get Workspace ID from IBM Watson Conversation: https://ibmwatsonconversation.com
 	 */
-	public String CONVERSATION_WORKSPACE_ID = "";
+	public String CONVERSATION_WORKSPACE_ID = "95cfdb76-7c7e-4c1c-9917-d7fa120a9904";
 
 	/**
 	 * TODO: After deploy your nodejs service for controlling robot car, fill in the host name here
